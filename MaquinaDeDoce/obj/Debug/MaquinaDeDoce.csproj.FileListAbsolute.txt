@@ -1,0 +1,8 @@
+C:\Users\joao.pypcruz\source\repos\MaquinaDeDoce\MaquinaDeDoce\bin\Debug\MaquinaDeDoce.exe.config
+C:\Users\joao.pypcruz\source\repos\MaquinaDeDoce\MaquinaDeDoce\bin\Debug\MaquinaDeDoce.exe
+C:\Users\joao.pypcruz\source\repos\MaquinaDeDoce\MaquinaDeDoce\bin\Debug\MaquinaDeDoce.pdb
+C:\Users\joao.pypcruz\source\repos\MaquinaDeDoce\MaquinaDeDoce\obj\Debug\MaquinaDeDoce.csproj.AssemblyReference.cache
+C:\Users\joao.pypcruz\source\repos\MaquinaDeDoce\MaquinaDeDoce\obj\Debug\MaquinaDeDoce.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.pypcruz\source\repos\MaquinaDeDoce\MaquinaDeDoce\obj\Debug\MaquinaDeDoce.csproj.CoreCompileInputs.cache
+C:\Users\joao.pypcruz\source\repos\MaquinaDeDoce\MaquinaDeDoce\obj\Debug\MaquinaDeDoce.exe
+C:\Users\joao.pypcruz\source\repos\MaquinaDeDoce\MaquinaDeDoce\obj\Debug\MaquinaDeDoce.pdb
