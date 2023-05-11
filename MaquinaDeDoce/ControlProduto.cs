@@ -34,9 +34,9 @@ namespace MaquinaDeDoce
             
             Console.WriteLine("\n \n \nEscolha uma das opções abaixo: \n" +
                 "0. Sair:\n "                                       +
-                "1. Cadastrar um produto\n"                       +
-                "2. Consultar um produto\n"                       +
-                "3. Atualizar um produto\n"                       +
+                "1. Cadastrar um produto\n"                         +
+                "2. Consultar um produto\n"                         +
+                "3. Atualizar um produto\n"                         +
                 "4. Mudar situação\n");
             ModificarOpcao = Convert.ToInt32(Console.ReadLine());
         }//fim do metodo menu

@@ -17,7 +17,9 @@ namespace MaquinaDeDoce
             //Chamar o método principal daquela classe
             controlProd.Operacao();
 
+            ControlPagamento controlPag = new ControlPagamento();
 
+            controlPag.OperacaoPagamento();
 
 
 
